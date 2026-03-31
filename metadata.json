@@ -1,0 +1,5 @@
+{
+  "name": "NEURO_SNAKE_OS",
+  "description": "Glitch-art snake protocol with integrated audio subsystem.",
+  "requestFramePermissions": []
+}
